@@ -34,3 +34,13 @@ h1 {
   right: 300px;
   top: 50px;
 }
+
+.profile-pic {
+  max-width: 200px;
+  height: auto;
+}
+
+.skills-images {
+  max-width: 200px;
+  height: auto;
+}
